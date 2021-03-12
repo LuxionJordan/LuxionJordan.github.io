@@ -1,0 +1,16 @@
+{
+    "image": "Pickup.3",
+    "model_sets": [
+        "Default"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Pickup - Top",
+            "sub_material": "Pickup - White"
+        },
+        {
+            "base_material": "Pickup - Bottom",
+            "sub_material": "Pickup - White #1"
+        }
+    ]
+}

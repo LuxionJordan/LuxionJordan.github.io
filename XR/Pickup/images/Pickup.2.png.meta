@@ -1,0 +1,16 @@
+{
+    "image": "Pickup.2",
+    "model_sets": [
+        "Default"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Pickup - Top",
+            "sub_material": "Pickup - Cream #1"
+        },
+        {
+            "base_material": "Pickup - Bottom",
+            "sub_material": "Pickup - Black #1"
+        }
+    ]
+}
