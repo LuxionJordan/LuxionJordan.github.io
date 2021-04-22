@@ -1,0 +1,23 @@
+{
+    "image": "BMTH.5",
+    "model_sets": [
+        "Tap",
+        "Bar Inside",
+        "Tap"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Letters",
+            "sub_material": "Scarlet"
+        },
+        {
+            "base_material": "Handle",
+            "sub_material": "Carbon Fiber"
+        },
+        {
+            "base_material": "Trim",
+            "sub_material": "Copper"
+        }
+    ],
+    "studio": "Inside Bar"
+}

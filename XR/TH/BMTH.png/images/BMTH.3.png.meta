@@ -1,0 +1,23 @@
+{
+    "image": "BMTH.3",
+    "model_sets": [
+        "Tap",
+        "Bar Outside",
+        "Tap"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Letters",
+            "sub_material": "Scarlet"
+        },
+        {
+            "base_material": "Handle",
+            "sub_material": "Dark Blue"
+        },
+        {
+            "base_material": "Trim",
+            "sub_material": "Turquoise"
+        }
+    ],
+    "studio": "Outside Bar"
+}

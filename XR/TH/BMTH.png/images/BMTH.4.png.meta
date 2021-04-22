@@ -1,0 +1,23 @@
+{
+    "image": "BMTH.4",
+    "model_sets": [
+        "Tap",
+        "Bar Inside",
+        "Tap"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Letters",
+            "sub_material": "Blue"
+        },
+        {
+            "base_material": "Handle",
+            "sub_material": "Off White"
+        },
+        {
+            "base_material": "Trim",
+            "sub_material": "Gold 24k"
+        }
+    ],
+    "studio": "Inside Bar"
+}
