@@ -1,0 +1,26 @@
+{
+    "image": "Revised.83",
+    "model_sets": [
+        "Default",
+        "Handle"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Handle",
+            "sub_material": "Red"
+        },
+        {
+            "base_material": "Backing",
+            "sub_material": "Gray"
+        },
+        {
+            "base_material": "Filigree",
+            "sub_material": "Black"
+        },
+        {
+            "base_material": "Housing",
+            "sub_material": "Silver"
+        }
+    ],
+    "studio": "Front"
+}

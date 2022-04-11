@@ -1,0 +1,22 @@
+{
+    "image": "Revised.53",
+    "model_sets": [
+        "Default",
+        "No Handle"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Backing",
+            "sub_material": "Blue"
+        },
+        {
+            "base_material": "Filigree",
+            "sub_material": "Silver"
+        },
+        {
+            "base_material": "Housing",
+            "sub_material": "Silver"
+        }
+    ],
+    "studio": "Side"
+}

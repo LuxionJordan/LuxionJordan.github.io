@@ -1,0 +1,26 @@
+{
+    "image": "Revised.111",
+    "model_sets": [
+        "Default",
+        "Handle"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Handle",
+            "sub_material": "Red"
+        },
+        {
+            "base_material": "Backing",
+            "sub_material": "Blue"
+        },
+        {
+            "base_material": "Filigree",
+            "sub_material": "Black"
+        },
+        {
+            "base_material": "Housing",
+            "sub_material": "Copper"
+        }
+    ],
+    "studio": "ISO"
+}
